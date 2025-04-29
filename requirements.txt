@@ -1,0 +1,15 @@
+numpy
+torch
+sentence-transformers
+transformers
+neo4j
+neo4j-graphrag
+python-igraph
+leidenalg
+PyMuPDF
+aiofiles
+httpx
+python-dotenv
+langchain-openai
+langchain-ibm
+openai
